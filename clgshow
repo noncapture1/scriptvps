@@ -1,0 +1,15 @@
+# 30-07-2021
+* update core v2ray (2.0)
+* update core xray (2.0)
+* update core ipsec (2.0)
+* update core shadowsocks (2.0)
+* vmess vless trojan now same port with vmess (2.0)
+* vless http now same port with vmess http (2.0)
+* added bot panel telegram (New) (2.0)
+* added restart all service (New) (2.0)
+* support 0p0k only for my country (2.0)
+  # vmess
+  # vless
+  # trgo
+* fix bug on google cloud platform (2.0)
+* path vmess vless http now same with https
